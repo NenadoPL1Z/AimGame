@@ -1,1 +1,2 @@
 # AimGame
+Vanila JS
